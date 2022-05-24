@@ -1,0 +1,38 @@
+h1#principal{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    background-color:darkgreen;
+    border:5px;
+}
+h2, h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.lista{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.flogao:hover{
+    color: blue;
+}
+.conteudo{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
